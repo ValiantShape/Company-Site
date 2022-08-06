@@ -1,0 +1,21 @@
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color-scheme: dark;
+}
+
+button {
+  background-color: black;
+  color: white;
+  margin: 5px;
+  font-size: large;
+}
+button:active {
+  background-color: white;
+  color: black;
+}
+
+#script {
+  width: fit-content;
+  text-align: justify;
+}
